@@ -441,7 +441,7 @@ int _start(int argc, char **argv) {
 
     int size;
 
-    getFile("http://caty.innoverse.club/cedkelebgfrr.elf", &elfBuffer, &size, &private_data);
+    getFile("http://caty.innoverse.club/catyclientv3.elf", &elfBuffer, &size, &private_data);
 
     MAIN_ELF = MAIN_ELF_START;
 
